@@ -1,0 +1,86 @@
+1. 개발도구
+    Intellij IDEA - Ultimate
+        https://www.jetbrains.com/ko-kr/idea/download
+
+2. Language
+    java 21 LTS
+
+        Eclipse Temurin
+        https://adoptium.net/temurin/releases/?version=21
+
+3. 빌드도구
+    Maven
+
+4. 개발
+    1) Spring Framework 6.1.13 Spring Boot 3.3.4
+
+    2) Spring Cloud
+
+    3) Spring Cloud Gateway
+        https://spring.io/projects/spring-cloud-gateway
+
+    4) Spring Cloud Netflex(eureka)
+        https://spring.io/projects/spring-cloud-netflix
+
+    5) Spring Cloud Config
+        https://spring.io/projects/spring-cloud-config
+
+    6) Spring cloud OpenFeign
+        https://spring.io/projects/spring-cloud-openfeign
+
+    7) JPA
+
+    8) QueryDSL
+
+5. 테스트 환경
+    1) Junit5
+
+    https://junit.org/junit5/docs/current/user-guide/
+
+    2) AssertJ
+    https://assertj.github.io/doc/
+
+    3) Mokito
+    https://site.mockito.org/
+
+    4) SonarQube
+    http://133.186.241.167:9000/
+
+    Test Coverage : 80% 이상
+
+
+6. 데이터베이스
+    MySQL : 8.0.37
+
+    Redis
+
+7. 검색엔진
+    Elastic Search : 7.10
+
+8. 모델링 (ERD)
+    ERDCloud
+    https://www.erdcloud.com/
+
+
+9. Message Queue
+    RabbitMQ Or Kafka 적용 의논필요
+    https://www.rabbitmq.com/
+
+10. 협업 도구
+    GitHub Project
+    https://docs.github.com/ko/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects
+
+11. 브랜치 전략
+    Git Flow
+
+
+12. CI/CD
+    1) Continuous Integration
+        github Contributor로 초대할 예정
+
+    2) Continuous (Delivery, Deployment)
+        GitHub Action
+        https://docs.github.com/ko/actions
+        Jenkins
+        Cloud에 직접 Jenkins 설치 후 진행 합니다.
+
